@@ -66,7 +66,6 @@ The application performs:
 
 # 🏗 System Architecture
 
-![Architecture](screenshots/architecture.png)
 
 The application follows a modular service-oriented architecture.
 
@@ -343,7 +342,7 @@ https://github.com/mailtoshikharchauhan-lab
 
 ### LinkedIn
 
-(Add your LinkedIn profile here)
+https://www.linkedin.com/in/shikharchauhanurl/
 
 ---
 
