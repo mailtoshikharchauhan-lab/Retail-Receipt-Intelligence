@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Generated outputs
+outputs/
+uploads/
+runs/
+
+
+# Ignore everything inside dataset
+dataset/*
+
+# Keep the README
+!dataset/README.md
+
+# Ignore everything inside originals
+dataset/originals/*
+
+# Keep only one sample image
+!dataset/originals/44.jpg
+
+# Python cache
+.pytest_cache/
+
+# Streamlit
+.streamlit/
+
+# Model training outputs
+runs/
+
+# Temporary files
+*.tmp
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# SQLite journal
+*.db-journal
+
+# Large generated outputs (optional)
+outputs/crops/
+outputs/json/
+
+# Don't ignore your database if you want demo data
+# receipts.db
